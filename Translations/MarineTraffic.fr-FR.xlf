@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-FR" original="MarineTraffic">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2548173466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MarineTrafficSetup</source>
+          <target state="translated">Paramétrages Marine Traffic</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MarineTrafficSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2548173466 - Field 1990079159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Consumed</source>
+          <target state="translated">Crédits consommés</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MarineTrafficSetup - Field CreditConsumed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2548173466 - Field 408547275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delta Days To Calc</source>
+          <target state="translated">Delta pour calcul (en jours)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MarineTrafficSetup - Field DeltaDaysToCalc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2548173466 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target state="translated">N° séquence</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MarineTrafficSetup - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2548173466 - Field 2168047125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fleet ID</source>
+          <target state="translated">ID Flotte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MarineTrafficSetup - Field FleetID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2548173466 - Field 2269273625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PS03 API_Key</source>
+          <target state="translated">Clef API (PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MarineTrafficSetup - Field PS03_API_Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2548173466 - Field 2577177789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PU01 API_Key</source>
+          <target state="translated">Clef API (PU01)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MarineTrafficSetup - Field PU01_API_Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vessel</source>
+          <target state="translated">Navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2518867407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acces is done</source>
+          <target state="translated">Accès ok</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Acces is done - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 975211486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agents</source>
+          <target state="translated">Agents</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Agents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3099425145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field AIS_TYPE_SUMMARY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3238172740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field AVG_SPEED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3362357860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Breath</source>
+          <target state="translated">Quai</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Breath - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 472115619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field CALLSIGN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 503024588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="translated">Commentaires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1385650983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field COURSE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 4009261345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field CURRENT_PORT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1481203340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field CURRENT_PORT_COUNTRY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2632201959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field CURRENT_PORT_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3616133383 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field CURRENT_PORT_UNLOCODE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 83221844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery Date</source>
+          <target state="translated">Date de livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Delivery Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2184473264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field DESTINATION - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1336766068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field DISTANCE_TO_GO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1544986235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field DISTANCE_TRAVELLED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1038821267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field DRAUGHT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1124084114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field DSRC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3367121993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field DWT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 4029956924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ETA</source>
+          <target state="translated">ETA</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field ETA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 514885454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field ETA_CALC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2783922334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field ETA_UPDATED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 372686245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ETB</source>
+          <target state="translated">ETB</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field ETB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 841473839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ETD</source>
+          <target state="translated">ETD</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field ETD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2487434272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field FLAG - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3214645363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field GRT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 888206524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field HEADING - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1643381301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field IMO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 4021536120 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IMO No.</source>
+          <target state="translated">N° IMO</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field IMO No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 951536633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice folder</source>
+          <target state="translated">Dossier factures</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Invoice folder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 725570794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items Category</source>
+          <target state="translated">Catégories article</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Items Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3254312395 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last DateTime API Call</source>
+          <target state="translated">Date de dernier appel de L'API</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Last DateTime API Call - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3630833552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last UserID API Call</source>
+          <target state="translated">Utilisateur de dernier appel de L'API</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Last UserID API Call - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1141607496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field LAST_PORT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3235239317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field LAST_PORT_COUNTRY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1118303066 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field LAST_PORT_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2371692434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field LAST_PORT_TIME - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 106870666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field LAST_PORT_UNLOCODE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1299748675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field LAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1661138728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field LENGTH - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1696352735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field LON - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1429161176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field MAX_SPEED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2780501534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field MMSI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 608838722 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field NEXT_PORT_COUNTRY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 4205878581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field NEXT_PORT_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2694535963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Nom du prochain port</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field NEXT_PORT_NAME - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1625460773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field NEXT_PORT_UNLOCODE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3074429411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Port</source>
+          <target state="translated">Port</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Port - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1663937811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field ROT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1475490283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales order No.</source>
+          <target state="translated">N° Commande vente</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Sales Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1543455087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field SHIPNAME - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 4249533294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field SHIPTYPE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 372074516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field SHIP_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2272702329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field SPEED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3968505912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field STATUS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2421660535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Successfully added to Marine Traffic</source>
+          <target state="translated">Correctement ajouté à Marine Traffic</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Successfully added to M.T - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1047975028 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field TYPE_NAME - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2515245050 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field UTC_SECONDS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 1729007358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vessel</source>
+          <target state="translated">Navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Vessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2335911202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field WIDTH - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3926176738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field YEAR_BUILT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2211191610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zone</source>
+          <target state="translated">Zone</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field Zone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 2540774873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field _ETA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729007358 - Field 3645031995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vessel - Field _TIMESTAMP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vessel Archive</source>
+          <target state="translated">Archive navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2518867407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acces is done</source>
+          <target state="translated">Accès ok</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Acces is done - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 975211486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agents</source>
+          <target state="translated">Agents</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Agents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3099425145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field AIS_TYPE_SUMMARY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3238172740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field AVG_SPEED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3362357860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Breath</source>
+          <target state="translated">Quai</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Breath - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 472115619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field CALLSIGN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 503024588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="translated">Commentaires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1385650983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field COURSE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 4009261345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field CURRENT_PORT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1481203340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field CURRENT_PORT_COUNTRY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2632201959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field CURRENT_PORT_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3616133383 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field CURRENT_PORT_UNLOCODE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 83221844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery Date</source>
+          <target state="translated">Date de livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Delivery Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2184473264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field DESTINATION - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1336766068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field DISTANCE_TO_GO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1544986235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field DISTANCE_TRAVELLED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1038821267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field DRAUGHT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1124084114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field DSRC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3367121993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field DWT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 4029956924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ETA</source>
+          <target state="translated">ETA</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field ETA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 514885454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field ETA_CALC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2783922334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field ETA_UPDATED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 372686245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ETB</source>
+          <target state="translated">ETB</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field ETB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 841473839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ETD</source>
+          <target state="translated">ETD</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field ETD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2487434272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field FLAG - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3214645363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field GRT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 888206524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field HEADING - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1643381301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field IMO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 4021536120 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IMO No.</source>
+          <target state="translated">N° IMO</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field IMO No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 951536633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice folder</source>
+          <target state="translated">Dossier factures</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Invoice folder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 725570794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items Category</source>
+          <target state="translated">Catégories article</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Items Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3254312395 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last DateTime API Call</source>
+          <target state="translated">Date de dernier appel de L'API</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Last DateTime API Call - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3630833552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last UserID API Call</source>
+          <target state="translated">Utilisateur de dernier appel de L'API</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Last UserID API Call - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1141607496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field LAST_PORT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3235239317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field LAST_PORT_COUNTRY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1118303066 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field LAST_PORT_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2371692434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field LAST_PORT_TIME - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 106870666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field LAST_PORT_UNLOCODE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1299748675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field LAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1661138728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field LENGTH - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1696352735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field LON - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1429161176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field MAX_SPEED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2780501534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field MMSI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 608838722 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field NEXT_PORT_COUNTRY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 4205878581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field NEXT_PORT_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2694535963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Nom du prochain port</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field NEXT_PORT_NAME - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1625460773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field NEXT_PORT_UNLOCODE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3074429411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Port</source>
+          <target state="translated">Port</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Port - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1663937811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field ROT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1475490283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales order No.</source>
+          <target state="translated">N° Commande vente</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Sales Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1543455087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field SHIPNAME - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 4249533294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field SHIPTYPE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 372074516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field SHIP_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2272702329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field SPEED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3968505912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field STATUS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2421660535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Successfully added to Marine Traffic</source>
+          <target state="translated">Correctement ajouté à Marine Traffic</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Successfully added to M.T - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1047975028 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field TYPE_NAME - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2515245050 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field UTC_SECONDS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 1729007358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vessel</source>
+          <target state="translated">Navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Vessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2335911202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field WIDTH - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3926176738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field YEAR_BUILT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2211191610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zone</source>
+          <target state="translated">Zone</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field Zone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 2540774873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field _ETA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1653097956 - Field 3645031995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data From Marine Traffic PS03 API</source>
+          <target state="translated">Données de Marine Traffic (API PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VesselArchive - Field _TIMESTAMP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 919841539 - Method 307387170 - NamedType 4069188089" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This Vessel already exist in your fleet</source>
+          <target state="translated">Ce navire existe déjà dans votre flotte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Marine Traffic API - Method AddVesselToFleet - NamedType AlreadyExistLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2548173466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MarineTrafficSetup</source>
+          <target state="translated">Paramétrages Marine Traffic</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MarineTrafficSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2548173466 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Général</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MarineTrafficSetup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2548173466 - Control 2168047125 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of Fleet ID field</source>
+          <target state="translated">Spécifie la valeur du champ ID Flotte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MarineTrafficSetup - Control FleetID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2548173466 - Control 2269273625 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the PS03 API_Key field.</source>
+          <target state="translated">Spécifie la valeur du champ Clef API (PS03)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MarineTrafficSetup - Control PS03_API_Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2548173466 - Control 2577177789 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the PU01 API_Key field.</source>
+          <target state="translated">Spécifie la valeur du champ Clef API (PU01)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MarineTrafficSetup - Control PU01_API_Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2548173466 - Action 4102695897 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear Credits</source>
+          <target state="translated">Réinitialiser les crédits</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MarineTrafficSetup - Action ClearCredits - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2548173466 - Action 4102695897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear Credits</source>
+          <target state="translated">Réinitialiser les crédits</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MarineTrafficSetup - Action ClearCredits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vessel</source>
+          <target state="translated">Navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 2518867407 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Acces is done field.</source>
+          <target state="translated">Spécifie la valeur du champ accès ok</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Acces is done - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 975211486 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Agents field.</source>
+          <target state="translated">Spécifie la valeur du champ Agents</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Agents - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 3362357860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the breath field.</source>
+          <target state="translated">Spécifie la valeur du champ Quai</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Breath - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 503024588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Comments field.</source>
+          <target state="translated">Spécifie la valeur du champ commentaires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 83221844 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Delivery Date field.</source>
+          <target state="translated">Spécifie la valeur du champ Date de livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Delivery Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 4029956924 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ETA field.</source>
+          <target state="translated">Spécifie la valeur du champ ETA</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control ETA - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 372686245 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ETB field.</source>
+          <target state="translated">Spécifie la valeur du champ ETB</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control ETB - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 841473839 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ETD field.</source>
+          <target state="translated">Spécifie la valeur du champ ETD</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control ETD - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 4021536120 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the IMO No. field.</source>
+          <target state="translated">Spécifie la valeur du champ N° IMO</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control IMO No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 951536633 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Invoice folder field.</source>
+          <target state="translated">Spécifie la valeur du champ dossier factures</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Invoice folder - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 725570794 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Items Category field.</source>
+          <target state="translated">Spécifie la valeur du champ catégorie article</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Items Category - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 3074429411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Port field.</source>
+          <target state="translated">Spécifie la valeur du champ port</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Port - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 1475490283 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Order No. field.</source>
+          <target state="translated">Spécifie la valeur du champ N° commande vente</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Sales Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 2421660535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Successfully added to M.T field.</source>
+          <target state="translated">Spécifie la valeur du champ Correctement ajouté à Marine Traffic</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Successfully added to M.T - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 1729007358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vessel field.</source>
+          <target state="translated">Spécifie la valeur du champ Navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Vessel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Control 2211191610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Zone field.</source>
+          <target state="translated">Spécifie la valeur du champ Zone</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Control Zone - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Action 289284324 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive this Vessel</source>
+          <target state="translated">Archiver ce navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Action ArchiveVessel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Action 289284324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Vessel</source>
+          <target state="translated">Archiver ce navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Action ArchiveVessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Action 1796528077 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call Marine Traffic</source>
+          <target state="translated">Appeler Marine Traffic</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Action CallMarineTraffic - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Action 1796528077 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call Marine Traffic</source>
+          <target state="translated">Appeler Marine Traffic</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Action CallMarineTraffic - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Action 3157445632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the page of Vessels archives</source>
+          <target state="translated">Ouvrir la page des archives navires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Action OpenArchiveVessel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1729007358 - Action 3157445632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archives Vessels</source>
+          <target state="translated">Navires archivés</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vessel - Action OpenArchiveVessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vessel Archive</source>
+          <target state="translated">Archive navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 2518867407 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Acces is done field.</source>
+          <target state="translated">Spécifie la valeur du champ accès ok</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Acces is done - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 975211486 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Agents field.</source>
+          <target state="translated">Spécifie la valeur du champ Agents</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Agents - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 3362357860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the breath field.</source>
+          <target state="translated">Spécifie la valeur du champ Quai</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Breath - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 503024588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Comments field.</source>
+          <target state="translated">Spécifie la valeur du champ commentaires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 83221844 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Delivery Date field.</source>
+          <target state="translated">Spécifie la valeur du champ Date de livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Delivery Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 4029956924 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ETA field.</source>
+          <target state="translated">Spécifie la valeur du champ ETA</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control ETA - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 372686245 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ETB field.</source>
+          <target state="translated">Spécifie la valeur du champ ETB</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control ETB - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 841473839 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ETD field.</source>
+          <target state="translated">Spécifie la valeur du champ ETD</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control ETD - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 4021536120 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the IMO No. field.</source>
+          <target state="translated">Spécifie la valeur du champ N° IMO</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control IMO No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 951536633 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Invoice folder field.</source>
+          <target state="translated">Spécifie la valeur du champ dossier factures</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Invoice folder - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 725570794 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Items Category field.</source>
+          <target state="translated">Spécifie la valeur du champ catégorie article</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Items Category - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 3074429411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Port field.</source>
+          <target state="translated">Spécifie la valeur du champ port</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Port - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 1475490283 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Order No. field.</source>
+          <target state="translated">Spécifie la valeur du champ N° commande vente</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Sales Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 2421660535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Successfully added to M.T field.</source>
+          <target state="translated">Spécifie la valeur du champ Correctement ajouté à Marine Traffic</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Successfully added to M.T - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 1729007358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vessel field.</source>
+          <target state="translated">Spécifie la valeur du champ Navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Vessel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Control 2211191610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Zone field.</source>
+          <target state="translated">Spécifie la valeur du champ Zone</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Control Zone - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Action 3517574966 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restore this Vessel</source>
+          <target state="translated">Restaurer ce Navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Action RestoreVessel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1653097956 - Action 3517574966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restore Vessel</source>
+          <target state="translated">Restaurer ce Navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VesselArchive - Action RestoreVessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1496902179 - Control 1951572396 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Specifies the value of the IsVessel field.</source>
+          <target state="translated">Spécifie la valeur du champ est un navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt - Control IsVessel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 809727384 - Control 2211191610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2288457370">
+          <source>Specifies the value of the Zone field.</source>
+          <target state="translated">Spécifie la valeur du champ Zone</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PostCodeExt - Control Zone - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1633892545 - Action 3563230328 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Add Vessel to fleet</source>
+          <target state="translated">Ajouter ce navire à la flotte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Ext - Action AddToFleet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1633892545 - Action 3563230328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Add To Fleet</source>
+          <target state="translated">Ajouter à la flotte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Ext - Action AddToFleet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1633892545 - Action 1729007358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Open the page of Vessels</source>
+          <target state="translated">Ouvrir la page des navires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Ext - Action Vessel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1633892545 - Action 1729007358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Vessels</source>
+          <target state="translated">Navires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Ext - Action Vessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1737375231 - Action 3563230328 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Add Vessel to fleet</source>
+          <target state="translated">Ajouter ce navire à la flotte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order List Ext - Action AddToFleet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1737375231 - Action 3563230328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Add To Fleet</source>
+          <target state="translated">Ajouter à la flotte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order List Ext - Action AddToFleet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1737375231 - Action 1729007358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Open the page of Vessels</source>
+          <target state="translated">Ouvrir la page des navires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order List Ext - Action Vessel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1737375231 - Action 1729007358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Vessels</source>
+          <target state="translated">Navires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order List Ext - Action Vessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3814193669 - Action 3563230328 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Add Vessel to fleet</source>
+          <target state="translated">Ajouter ce navire à la flotte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesQuoteExt - Action AddToFleet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3814193669 - Action 3563230328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Add To Fleet</source>
+          <target state="translated">Ajouter à la flotte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesQuoteExt - Action AddToFleet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3814193669 - Action 1729007358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Open the page of Vessels</source>
+          <target state="translated">Ouvrir la page des navires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesQuoteExt - Action Vessel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3814193669 - Action 1729007358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Vessels</source>
+          <target state="translated">Navires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesQuoteExt - Action Vessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2422959756 - Action 3563230328 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 734185571">
+          <source>Add Vessel to fleet</source>
+          <target state="translated">Ajouter ce navire à la flotte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesQuotesExt - Action AddToFleet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2422959756 - Action 3563230328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 734185571">
+          <source>Add To Fleet</source>
+          <target state="translated">Ajouter à la flotte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesQuotesExt - Action AddToFleet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2422959756 - Action 1729007358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 734185571">
+          <source>Open the page of Vessels</source>
+          <target state="translated">Ouvrir la page des navires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesQuotesExt - Action Vessel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2422959756 - Action 1729007358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 734185571">
+          <source>Vessels</source>
+          <target state="translated">Navires</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesQuotesExt - Action Vessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1713901351 - Field 1951572396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>IsVessel</source>
+          <target state="translated">Est un navire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerExt - Field IsVessel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 809727384 - Field 2211191610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3660300303">
+          <source>Zone</source>
+          <target state="translated">Zone</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PostCodeExt - Field Zone - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

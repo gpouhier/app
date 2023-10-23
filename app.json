@@ -1,0 +1,32 @@
+{
+  "id": "09b0d37d-3425-4f64-8ed9-b7c26db91c55",
+  "name": "MarineTraffic",
+  "publisher": "ProdWare",
+  "version": "22.1.9999.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50250,
+      "to": 50270
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith","TranslationFile"
+  ]
+}
